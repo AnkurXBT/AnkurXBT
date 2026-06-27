@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @AnkurXBT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi, I'm Ankur
 
-<!---
-cryptoWhaleak/cryptoWhaleak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 **Crypto Analyst** — Tracking markets, trends, and on-chain activity  
+🎥 **Content Creator** — Sharing crypto insights and analysis  
+🌱 **Aspiring Developer** — Currently learning to build on blockchain
+
+---
+
+### 🚀 What I'm working on
+Building my first Web3 project — exploring file storage and decentralized apps on Aptos using the Shelby Protocol.
+
+### 🛠️ Currently Learning
+- Blockchain development
+- Smart contracts
+- Building real products from scratch
+
+### 📫 Connect with me
+- Twitter/X: [@0xAnkur_K](https://twitter.com/0xAnkur_K)
+
+---
+*Building in public* 
